@@ -178,8 +178,7 @@ You are free to use, modify, and distribute this project.
 
 Shreyas
 
-GitHub: https://github.com/codexshreyas
-Portfolio: https://theshreyas.netlify.app
+GitHub: https://github.com/shreyascodex
 <div align="center">
 
 ⭐ If you like this project, consider giving it a star!
